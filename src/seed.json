@@ -1,0 +1,13 @@
+[
+    {
+        "id": 1,
+        "brand": "kirkland",
+        "serving_size": "1 large egg",
+        "calories": 70,
+        "protein": 6,
+        "carbohydrates": 0,
+        "fat": 5,
+        "fiber": 0,
+        "sugar": 0
+    }
+]
