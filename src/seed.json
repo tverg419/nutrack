@@ -9,5 +9,17 @@
         "fat": 5,
         "fiber": 0,
         "sugar": 0
+    },
+    {
+        "id": 2,
+        "brand": "columbus",
+        "description": "uncured turkey bacon",
+        "serving_size": "1 slice",
+        "calories": 45,
+        "protein": 6,
+        "carbohydrates": 0,
+        "fat": 2,
+        "fiber": 0,
+        "sugar": 0
     }
 ]
